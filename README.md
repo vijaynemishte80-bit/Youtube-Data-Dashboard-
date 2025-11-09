@@ -1,5 +1,4 @@
-# Youtube-Data-Dashboard
-Youtube Data Dashboard Using Streamlit
+
 # YouTube Data Dashboard using Streamlit
 
 ## Project Overview
